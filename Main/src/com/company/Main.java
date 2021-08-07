@@ -2,19 +2,21 @@ package com.company;
 
 import java.util.*;
 
+import static com.company.Assignments.countExactlyThreeDivisors;
+
 public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter a number");
-        int n = sc.nextInt();
-
-        int[] arr = new int[n];
-
-        for(int i=0; i<n; i++){
-            arr[i] = sc.nextInt();
-        }
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println("Enter a number");
+//        int n = sc.nextInt();
+//
+//        int[] arr = new int[n];
+//
+//        for(int i=0; i<n; i++){
+//            arr[i] = sc.nextInt();
+//        }
 //        ArrayList<Integer> list = PrimeNumbers.sieve(n);
 //
 //        for(int i=0; i<list.size(); i++)
@@ -29,10 +31,16 @@ public class Main {
 //            System.out.println("Natsu Won");
 //        }
 
-        System.out.println(Assignments.inversionCount(arr));
+//        System.out.println(Assignments.inversionCount(arr));
+
+
+//        System.out.println(BitwiseOperator.bitwiseAnd(5, 7));
+//        System.out.println(BitwiseOperator.bitwiseOr(9, 7));
+
+//        System.out.println(countExactlyThreeDivisors(20));
+
+
+
+
     }
-
-
-
-
 }
