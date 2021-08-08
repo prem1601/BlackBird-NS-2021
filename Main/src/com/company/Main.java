@@ -39,6 +39,11 @@ public class Main {
 
 //        System.out.println(countExactlyThreeDivisors(20));
 
+        //Dsa mock question
+//        int[] arr = { 6, 0, 8, 2, 3, 0, 4, 0, 1 };
+//        MockDSA.sortingQuestions(arr);
+
+
 
 
 
