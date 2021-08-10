@@ -2,8 +2,6 @@ package com.company;
 
 import java.util.*;
 
-import static com.company.Assignments.countExactlyThreeDivisors;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -37,13 +35,13 @@ public class Main {
 //        System.out.println(BitwiseOperator.bitwiseAnd(5, 7));
 //        System.out.println(BitwiseOperator.bitwiseOr(9, 7));
 
-//        System.out.println(countExactlyThreeDivisors(20));
+//        System.out.println(Assignments.countExactlyThreeDivisors(20));
 
         //Dsa mock question
 //        int[] arr = { 6, 0, 8, 2, 3, 0, 4, 0, 1 };
 //        MockDSA.sortingQuestions(arr);
 
-
+        System.out.println(BitwiseExamples.countSetBits(15));
 
 
 
