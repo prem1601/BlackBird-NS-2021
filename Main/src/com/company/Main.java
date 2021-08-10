@@ -41,7 +41,8 @@ public class Main {
 //        int[] arr = { 6, 0, 8, 2, 3, 0, 4, 0, 1 };
 //        MockDSA.sortingQuestions(arr);
 
-        System.out.println(BitwiseExamples.countSetBits(15));
+//        System.out.println(BitwiseExamples.countSetBits(15));
+        BitwiseExamples.firstNNumbersWithExactlyTwoSetBits(10, 3);
 
 
 
