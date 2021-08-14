@@ -42,7 +42,9 @@ public class Main {
 //        MockDSA.sortingQuestions(arr);
 
 //        System.out.println(BitwiseExamples.countSetBits(15));
-        BitwiseExamples.firstNNumbersWithExactlyTwoSetBits(10, 3);
+//        BitwiseExamples.firstNNumbersWithExactlyTwoSetBits(10, 3);
+
+        InClassProblems.arrayList();
 
 
 
